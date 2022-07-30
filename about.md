@@ -1,8 +1,11 @@
 ---
 layout: page
 title: About
+permalink: https://egbolger.github.io/about
 ---
+Coming Soon!
 
+<!-- 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
@@ -27,4 +30,4 @@ Some fun facts about the setup of this project include:
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
+Thanks for reading! -->
