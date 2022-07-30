@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Home
 order: 1
 ---
 Coming Soon!
