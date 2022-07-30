@@ -30,7 +30,10 @@ twitter_username: egbolger
 github_username:  egbolger06
 
 # Build settings
-theme: minima
+# theme: minima
+
+remote_theme: hyde
+
 plugins:
   - jekyll-feed
 
