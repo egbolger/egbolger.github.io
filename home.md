@@ -2,6 +2,7 @@
 layout: page
 title: Home
 order: 1
+permalink: https://egbolger.github.io/
 ---
 Coming Soon!!
 
