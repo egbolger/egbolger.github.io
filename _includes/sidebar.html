@@ -18,7 +18,6 @@
       {% endcomment %}
 
       {% assign pages_list = site.pages | sort:"order"%}
-      print(site.pages)
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
