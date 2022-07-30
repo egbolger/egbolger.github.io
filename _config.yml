@@ -21,8 +21,8 @@
 title: Emily Bolger
 email: bolgerem@msu.edu
 description: #>- # this means to ignore newlines until "baseurl:"
-  PhD Student 
-  Computational Mathematics, Science, and Engineering Department
+  PhD Student,
+  Computational Mathematics, Science, and Engineering Department,
   Michigan State University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://egbolger.github.io" # the base hostname & protocol for your site, e.g. http://example.com
