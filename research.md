@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Research
-order: 2
+order: 1
 ---
 Information on Projects Coming Soon!

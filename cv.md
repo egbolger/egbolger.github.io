@@ -1,6 +1,6 @@
 ---
 layout: page
 title: CV
-order: 5
+order: 4
 ---
 CV coming soon!
