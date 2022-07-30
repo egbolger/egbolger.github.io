@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: https://egbolger.github.io/about
 ---
 Coming Soon!
 
