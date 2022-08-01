@@ -120,6 +120,7 @@ a.sidebar-nav-item:focus,
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
   display: none;
+  float: right;
   position: absolute;
   background-color: #202020;
   min-width: 160px;
