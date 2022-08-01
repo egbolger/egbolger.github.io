@@ -90,11 +90,12 @@ html {
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
+  position: relative;
+  /* display: inline-block; */
 }
 
 a.sidebar-nav-item:hover,
-a.sidebar-nav-item:focus,  
-.dropdown-btn:hover {
+a.sidebar-nav-item:focus{
   text-decoration: underline;
 }
 .sidebar-nav-item.active {
