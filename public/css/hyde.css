@@ -102,6 +102,7 @@ a.sidebar-nav-item:focus,
 }
 
 /* Drop Down */
+/* Dropdown Button */
 .dropbtn {
   background-color: #202020;
   color: white;
@@ -110,11 +111,13 @@ a.sidebar-nav-item:focus,
   border: none;
 }
 
+/* The container <div> - needed to position the dropdown content */
 .dropdown {
   position: relative;
   display: inline-block;
 }
 
+/* Dropdown Content (Hidden by Default) */
 .dropdown-content {
   display: none;
   position: absolute;
@@ -124,6 +127,7 @@ a.sidebar-nav-item:focus,
   z-index: 1;
 }
 
+/* Links inside the dropdown */
 .dropdown-content a {
   color: fff;
   padding: 12px 16px;

@@ -30,11 +30,9 @@
           {% if node.layout == "page" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
             <div class="dropdown">
-              <button class="dropbtn">"{{ node.url }}"</button>
+              <button class="dropbtn">{{ node.title }}</button>
               <div class="dropdown-content">
                 <a href="#">Link 1</a>
-                <a href="#">Link 2</a>
-                <a href="#">Link 3</a>
               </div>
           {% endif %}
         {% endif %}
