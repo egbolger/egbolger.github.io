@@ -11,12 +11,12 @@ order: 3
   * Girl's Math and Science Day invites middle school students to spend the day completing STEM-themed activities with graduate students. 
   * Undergraduate Mentoring Program pairs graduate students with undergraduates interested in pursuing STEM careers to share knowledge and advice. 
   
-* [MSU CMSE Graduate Student Organization (GSO) Diversity, Equity, and Inclusion (DEI) Committee](https://cmse.msu.edu/dept-resources/dei/),  Member and Mentor
+* [MSU CMSE Graduate Student Organization (GSO) Diversity, Equity, and Inclusion (DEI) Committee](https://cmse.msu.edu/dept-resources/dei/),  Member and Graduate Student Mentor
   * The committee seeks to give a stronger voice to the concerns of graduate students, while continuing to educate ourselves on DEI related issues. We promote diversity, equity, inclusion, belonging, and intersectionality as well as foster a welcoming environment in the CMSE department. 
-  * As a graduate student mentor, I am paired an incoming graduate student under the Peer Mentorship Program organized by the CMSE GSO DEI committee. 
+  * The Peer Mentorship program organized under the CMSE GSO DEI Committee pairs current graduate students with incoming graduate students to help them adjust to graduate school and the department. 
 
 * [Letters to Pre-Scientist](https://prescientist.org/), Pen Pal
-  * Exchange letter with a middle school student to help them learn more about careers in STEM-related fields.
+  * Exchange bi-monthly letters with a middle school student to help them learn more about careers in STEM-related fields.
 
 
 
