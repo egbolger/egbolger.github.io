@@ -3,4 +3,4 @@ layout: page
 title: CV
 order: 4
 ---
-CV coming soon!
+[View current CV.](files://../files/Resume_Bolgerv2022August.pdf)

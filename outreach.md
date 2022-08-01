@@ -6,7 +6,7 @@ order: 3
 ### Current Positions
 
 
-* Mid-Michigan Chapter, [Graduate Women in Science](https://midmichigan.wixsite.com/gwis), Co-chair of Girl's Math and Science Day Committee and the Undergraduate Mentoring Program Committee 
+* Mid-Michigan Chapter, [Graduate Women in Science](https://midmichigan.wixsite.com/gwis), Co-chair of Girls Math and Science Day Committee and the Undergraduate Mentoring Program Committee 
   * The organization is comprised of scientists at various levels who encourage and support women to succeed in science through outreach, networking, and workshops. 
   * Girl's Math and Science Day invites middle school students to spend the day completing STEM-themed activities with graduate students. 
   * Undergraduate Mentoring Program pairs graduate students with undergraduates interested in pursuing STEM careers to share knowledge and advice. 
@@ -15,8 +15,8 @@ order: 3
   * The committee seeks to give a stronger voice to the concerns of graduate students, while continuing to educate ourselves on DEI related issues. We promote diversity, equity, inclusion, belonging, and intersectionality as well as foster a welcoming environment in the CMSE department. 
   * As a graduate student mentor, I am paired an incoming graduate student under the Peer Mentorship Program organized by the CMSE GSO DEI committee. 
 
-* Letters to Pre-Scientist, Member
-  * Pen Pal to a middle school student to help them learn more about careers in STEM-related fields.
+* [Letters to Pre-Scientist](https://prescientist.org/), Pen Pal
+  * Exchange letter with a middle school student to help them learn more about careers in STEM-related fields.
 
 
 
