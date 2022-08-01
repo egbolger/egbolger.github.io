@@ -87,7 +87,7 @@ html {
 .sidebar-nav {
   margin-bottom: 1rem;
 }
-.sidebar-nav-item {
+.sidebar-nav-item, .dropdown-btn  {
   display: block;
   line-height: 1.75;
 }
@@ -96,15 +96,15 @@ a.sidebar-nav-item:focus,
 .dropdown-btn:hover {
   text-decoration: underline;
 }
-.sidebar-nav-item.active {
+.sidebar-nav-item.active, .dropdown-btn.active {
   font-weight: bold;
 }
 
 /* Add an active class to the active dropdown button */
-.active {
+/* .active {
   background-color: #202020;
   color: #fff;
-}
+} */
 /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
 .dropdown-container {
   display: none;
