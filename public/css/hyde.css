@@ -71,11 +71,8 @@ html {
 }
 
 /* Sidebar links */
-.sidebar a, .dropdown-btn {
+.sidebar a {
   color: #fff;
-}
-.dropdown-btn {
-  color: #202020;
 }
 
 /* About section */
@@ -90,7 +87,7 @@ html {
 .sidebar-nav {
   margin-bottom: 1rem;
 }
-.sidebar-nav-item {
+.sidebar-nav-item, .dropdown-btn {
   display: block;
   line-height: 1.75;
 }
