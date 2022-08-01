@@ -74,6 +74,9 @@ html {
 .sidebar a, .dropdown-btn {
   color: #fff;
 }
+.dropdown-btn {
+  color: #202020;
+}
 
 /* About section */
 .sidebar-about h1 {
