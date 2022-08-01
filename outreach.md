@@ -6,7 +6,7 @@ order: 3
 ### Current Positions
 
 
-* Mid-Michigan Chapter,<a href="https://midmichigan.wixsite.com/gwis" target = "_blank"> Graduate Women in Science, </a> Co-chair of Girls Math and Science Day Committee and the Undergraduate Mentoring Program Committee 
+* <a href="https://midmichigan.wixsite.com/gwis" target = "_blank"> Graduate Women in Science, Mid-Michigan Chapter, </a> Co-chair of Girls Math and Science Day Committee and the Undergraduate Mentoring Program Committee 
   * The organization is comprised of scientists at various levels who encourage and support women to succeed in science through outreach, networking, and workshops. 
   * Girl's Math and Science Day invites middle school students to spend the day completing STEM-themed activities with graduate students. 
   * Undergraduate Mentoring Program pairs graduate students with undergraduates interested in pursuing STEM careers to share knowledge and advice. 
