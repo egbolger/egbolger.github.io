@@ -14,6 +14,6 @@ I work with the [Computational Education Research Lab (CERL)](https://msu-cerl.g
     * A summer REU project using Convolutional Neural Networks to predict traits from the genetic information of plants. This model was a part of a larger project that sought to compare the effectiveness of various models in predicting plant traits.
     * Completed under the direction of Dr. Shin-Han Shiu and Dr. Christina Azodi as a part of the [iCER ACRES REU](https://icer-acres.msu.edu/).
 
-* [Nutrient Intake of Dancers: A Measurement Error Analysis](file://../files/Bolger_Final_Honors_Thesis_2020.pdf)
+* [Nutrient Intake of Dancers: A Measurement Error Analysis](files/Bolger_Final_Honors_Thesis_2020.pdf)
     * A year-long, undergraduate honors project using measurement error analysis to study what factors influence the nutritional intake of contemporary, collegiate-level dancers.
     * Completed under the advisement of Dr. Brenna Curley in the [Department of Mathematics and Computer Science](https://www.moravian.edu/mathematics) at Moravian College.
