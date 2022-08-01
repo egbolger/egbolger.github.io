@@ -29,14 +29,15 @@
         {% if node.title != null %}
           {% if node.layout == "page" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-            <button class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">{{ node.title }}
-              <i class="fa fa-caret-down"></i>
-            </button>
-            <div class="dropdown-container">
-              <a href="#">Link 1</a>
-              <a href="#">Link 2</a>
-              <a href="#">Link 3</a>
-            </div>
+            {% if node.title == "teaching" %}
+              <button class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">{{ node.title }}
+                <i class="fa fa-caret-down"></i>
+              </button>
+              <div class="dropdown-container">
+                <a >Link 1</a>
+        
+              </div>
+            {% endif %}
           {% endif %}
         {% endif %}
       {% endfor %}
