@@ -107,8 +107,7 @@ a.sidebar-nav-item:focus,
 } */
 /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
 .dropdown-container {
-  display: block;
-  line-height: 1.75;
+  display: none;
   background-color: #202020;
   padding-left: 8px;
 }
