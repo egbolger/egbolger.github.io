@@ -120,7 +120,7 @@ a.sidebar-nav-item:focus{
 }
 
 /* Style the sidenav links and the dropdown button */
-.sidenav a {
+.sidenav a, .dropdown-btn{
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 20px;
@@ -135,28 +135,11 @@ a.sidebar-nav-item:focus{
 }
 
 /* On mouse-over */
-.sidenav a:hover {
+.sidenav a:hover, .dropdown-btn:hover {
   color: #f1f1f1;
 }
 
-/* Drop Down */
 
-.dropdown-btn {
-  padding: 6px 8px 6px 16px;
-  text-decoration: none;
-  font-size: 20px;
-  color: #818181;
-  display: block;
-  border: none;
-  background: none;
-  width:100%;
-  text-align: left;
-  cursor: pointer;
-  outline: none;
-}
-.dropdown-btn:hover {
-  color: #f1f1f1;
-}
 /* Main content */
 .main {
   margin-left: 200px; /* Same as the width of the sidenav */
