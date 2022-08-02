@@ -128,7 +128,7 @@ a.sidebar-nav-item:focus{
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
   top:0;
-  left: 75 px;
+  left: 50 px;
 }
 
 /* Links inside the dropdown */
