@@ -45,7 +45,7 @@ html {
   }
 }
 
-
+/* This is the orignal sidebar */
 /*
  * Sidebar
  *
@@ -53,7 +53,7 @@ html {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
-.sidebar {
+/* .sidebar {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
@@ -68,43 +68,59 @@ html {
     width: 18rem;
     text-align: left;
   }
-}
+} */
 
 /* Sidebar links */
-.sidebar a{
+/* .sidebar a{
   color: #fff;
-}
+} */
 
 /* About section */
-.sidebar-about h1 {
+/* .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
   font-size: 3.25rem;
-}
+} */
 
 /* Sidebar nav */
-.sidebar-nav {
+/* .sidebar-nav {
   margin-bottom: 1rem;
 }
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
   position: relative;
-  /* display: inline-block; */
-}
-
+  /* display: inline-block;
+} */
+/* 
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus{
   text-decoration: underline;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+} */
+
+
+
+
+/* This is the testing side bar */
+/* Fixed sidenav, full height */
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
 }
 
-/* Drop Down */
-
-.dropdown-btn {
+/* Style the sidenav links and the dropdown button */
+.sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 20px;
@@ -116,6 +132,24 @@ a.sidebar-nav-item:focus{
   text-align: left;
   cursor: pointer;
   outline: none;
+}
+
+/* On mouse-over */
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+/* Drop Down */
+
+.dropdown-btn {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #fff;
+  display: block;
+  width:100%;
+  text-align: left;
+  cursor: pointer;
 }
 .dropdown-btn:hover {
   color: #f1f1f1;
