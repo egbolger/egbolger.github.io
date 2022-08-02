@@ -127,8 +127,8 @@ a.sidebar-nav-item:focus{
   /* overflow: auto; */
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
-  top:0;
-  left: 150 px;
+  /* top:0;
+  left: 150 px; */
 }
 
 /* Links inside the dropdown */
