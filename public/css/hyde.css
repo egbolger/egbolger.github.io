@@ -104,13 +104,13 @@ a.sidebar-nav-item:focus{
 
 /* Drop Down Stuff */
 /* Dropdown Button */
-.dropbtn {
+/* .dropbtn {
   background-color: #04AA6D;
   color: white;
   padding: 16px;
   font-size: 16px;
   border: none;
-}
+} */
 
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
@@ -127,7 +127,6 @@ a.sidebar-nav-item:focus{
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
   top:0;
-  left: 40px;
 }
 
 /* Links inside the dropdown */
