@@ -90,8 +90,8 @@ html {
 .sidebar-nav-item {
   display: block;
   line-height: 1.75;
-  position: relative;
-  display: inline-block;
+  /* position: relative;
+  display: inline-block; */
 }
 
 a.sidebar-nav-item:hover,
