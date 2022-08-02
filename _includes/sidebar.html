@@ -25,16 +25,16 @@
             {% if node.title == "Teaching" %}
               <div class="dropdown">
                 <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-                <div class="dropdown-content">
+                <!-- <div class="dropdown-content">
                   {% assign teaching_list = site.teaching | sort:"order"%}
                   {% for node in teaching_list %}
-                    {% if node.title != null %}
+                    {% if node.title != null %} -->
                       {% if node.layout == "page" %}
-                      <a href="{{ node.url }}">{{ node.title }}<a>
+                      <a href="https://github.com/egbolger">Github<a>
 
-                      {% endif %}
+                      <!-- {% endif %}
                     {% endif %}
-                  {% endfor %}
+                  {% endfor %} -->
 
                 </div>  
                 </div>
