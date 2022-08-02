@@ -23,7 +23,16 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-
+      
+      <button class="dropdown-btn">Dropdown
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-container">
+        <a href="#">Link 1</a>
+        <a href="#">Link 2</a>
+        <a href="#">Link 3</a>
+      </div>
+      <a href="#contact">Search</a>
       <!-- {% assign pages_list = site.pages | sort:"order"%}
       {% for node in pages_list %}
         {% if node.title != null %}
