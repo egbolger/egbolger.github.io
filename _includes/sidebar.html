@@ -22,20 +22,21 @@
       {% if node.layout == "page" %}
       {% if node.title != "Teaching" %}
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title
-      }}</a>
+        }}</a>
       {% endif %}
       {% if node.title == "Teaching" %}
-      
-      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title
-      }}</a>
-        
-      <div class="dropdown-content">
-        <a href="https://github.com/egbolger">Link 1</a>
-        <a href="https://github.com/egbolger">Link 2</a>
-        <a href="https://github.com/egbolger">Link 3</a>
-        <a href="https://github.com/egbolger">Link 4</a>
-      </div>
+      <div class="dropdown">
+        <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title
+          }}</a>
+        <!-- <button>test button</button> -->
 
+        <div class="dropdown-content">
+          <a href="https://github.com/egbolger">Link 1</a>
+          <a href="https://github.com/egbolger">Link 2</a>
+          <a href="https://github.com/egbolger">Link 3</a>
+          <a href="https://github.com/egbolger">Link 4</a>
+        </div>
+      </div>
 
       {% endif %}
       {% endif %}
