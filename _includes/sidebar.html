@@ -25,29 +25,28 @@
         }}</a>
       {% endif %}
       {% if node.title == "Teaching" %}
-      <div class="dropdown">
-        <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title
-          }}</a>
-        <!-- <button>test button</button> -->
+      <div class="em-dropdown">
+        <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
+          {{ node.title }}
+        </a>
 
-        <div class="dropdown-content">
-          <a href="https://github.com/egbolger">Link 1</a>
-          <a href="https://github.com/egbolger">Link 2</a>
-          <a href="https://github.com/egbolger">Link 3</a>
-          <a href="https://github.com/egbolger">Link 4</a>
+        <div class="em-dropdown-content">
+          <a href="{{site.baseurl}}/comp1"> Comp 1</a>
+          <a href="{{site.baseurl}}/comp2"> Comp 2</a>
+          <a href="{{site.baseurl}}/comp3"> Comp 3</a>
         </div>
-      </div>
-
-      {% endif %}
-      {% endif %}
-      {% endif %}
-      {% endfor %}
 
 
+        {% endif %}
+        {% endif %}
+        {% endif %}
+        {% endfor %}
 
 
 
-      <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
+
+
+        <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
     </nav>

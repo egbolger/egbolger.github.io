@@ -32,13 +32,26 @@ github_username:  egbolger06
 # Build settings
 # theme: minima
 
+# teaching:
+#   - comp1.md
+
+
+# teaching:
+#   - comp1.md
+
 remote_theme: poole/hyde
 
 plugins:
   - jekyll-feed
 
+include: 
+   - _teaching
 
-  
+collections:
+  - teaching
+
+
+  # include_dir : '{{ site.pages }}_include'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
