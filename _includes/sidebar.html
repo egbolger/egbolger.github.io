@@ -26,7 +26,7 @@
       {% endif %}
       {% if node.title == "Teaching" %}
 
-      <button class="dropdown-btn">Dropdown
+      <button class="dropdown-btn">node.title
         <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-container">
@@ -35,23 +35,6 @@
         <a href="https://github.com/egbolger">Link 3</a>
         <a href="https://github.com/egbolger">Link 4</a>
       </div>
-
-      {% endif %}
-      {% endif %}
-      {% endif %}
-      {% endfor %}
-
-
-
-
-
-      <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
-    </nav>
-
-
-    <body>
       <script>
         //* Loop through all dropdown buttons to toggle between hiding and showing its dropdown content - This allows the user to have multiple dropdowns without any conflict */
         var dropdown = document.getElementsByClassName("dropdown-btn");
@@ -69,6 +52,24 @@
           });
         }
       </script>
+
+      {% endif %}
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+
+
+
+
+
+      <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+      <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
+    </nav>
+
+
+    <body>
+
 
       <a href="https://github.com/egbolger" target="_blank">
         <ion-icon name="logo-github"></ion-icon>
