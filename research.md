@@ -5,8 +5,14 @@ order: 1
 ---
 As a trained applied mathematician, my strengths lie in projects encompassing statistical methods, data analysis, and computational modeling.
 
-I work with the <a href="https://msu-cerl.github.io/" target = "_blank"> Computational Education Research Lab (CERL), </a> under the advisement of Dr. Danny Caballero. The group focuses on understanding how students learn computational tools so that we can more effectively integrate these tools into our classrooms. Currently, I am using social network analysis techniques to model data from a messaging platform consisting of physics instructors who are looking to incorporate computation into their courses. The goal is to learn which instructors are most active, what sort of relationships the instructors foster, and how these relationships develop over time. Through analyzing these relationships, we can learn what struggles instructors face when looking to incorporate computation into their classrooms and better help them succeed.
+I work with the <a href="https://msu-cerl.github.io/" target = "_blank"> Computational Education Research Lab (CERL), </a> under the advisement of Dr. Danny Caballero. The group focuses on understanding how students learn computational tools so that we can more effectively integrate these tools into our classrooms. 
 
+### Current projects:
+* Using Social Network Analysis to Understand Online Faculty Learning Communities
+  * Currently, I am using Social Network Analysis techniques to model data from a messaging platform consisting of STEM instructors who are looking to incorporate computation into their courses. The goal is to learn which instructors are most active, what sort of relationships the instructors foster, and how these relationships develop over time. Through analyzing these relationships, we can learn what struggles instructors face when looking to incorporate computation into their classrooms and better help them succeed.
+  
+* Using Natural Language Processing to Characterize STEM Education Literature
+  * In collaboration with three other universities, we are conducting a mixed-methods analysis on literature published in the past three decades on change strategies for improving undergraduate STEM instruction. Specifically, my work uses topic analysis and Natural Language Processing to computational characterize the development of change strategies in the field. 
 
 ### A few past projects:
 
