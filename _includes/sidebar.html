@@ -20,15 +20,15 @@
       {% for node in pages_list %}
       {% if node.title != null %}
       {% if node.layout == "page" %}
-      {% if node.title != "Teaching" %}
-      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title
+      <!-- {% if node.title != "Teaching" %} -->
+      <!-- <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title
         }}</a>
       {% endif %}
       {% if node.title == "Teaching" %}
       <div class="em-dropdown">
         <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
           {{ node.title }}
-        </a>
+        </a> -->
 
         <!-- <div class="em-dropdown-content">
           <a href="{{site.baseurl}}/comp1"> Comp 1</a>
@@ -37,7 +37,7 @@
         </div> -->
 
 
-        {% endif %}
+        <!-- {% endif %} -->
         {% endif %}
         {% endif %}
         {% endfor %}

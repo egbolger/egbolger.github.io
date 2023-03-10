@@ -11,7 +11,7 @@ Michigan State University
 
 Office:  
 428 South Shaw Lane  
-Engineering Building, Rm 1515  
+Engineering Building
 Michigan State University  
 East Lansing, MI 48824  
 
