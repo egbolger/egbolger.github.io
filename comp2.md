@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Competency2
-order: 1
+order: 2
 ---
 
 # Comp 2
