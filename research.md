@@ -3,9 +3,9 @@ layout: page
 title: Research
 order: 1
 ---
-As a trained applied mathematician, my strengths lie in projects encompassing statistical methods, data analysis, and computational modeling.
+<font size="1"> As a trained applied mathematician, my strengths lie in projects encompassing statistical methods, data analysis, and computational modeling. </font>
 
-I work with the <a href="https://msu-cerl.github.io/" target = "_blank"> Computational Education Research Lab (CERL), </a> under the advisement of Dr. Danny Caballero. The group focuses on understanding how students learn computational tools so that we can more effectively integrate these tools into our classrooms. 
+I work with the <a href="https://msu-cerl.github.io/" target = "_blank"> Computational Education Research Lab (CERL), </a> under the advisement of <a href="https://dannycaballero.info/" target = "_blank"> Dr. Danny Caballero.</a> The group focuses on understanding how students learn computational tools so that we can more effectively integrate these tools into our classrooms. 
 
 ### Current projects:
 * Using Social Network Analysis to Understand Online Faculty Learning Communities

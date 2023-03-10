@@ -47,8 +47,8 @@ plugins:
 include: 
    - _teaching
 
-collections:
-  - teaching
+# collections:
+#   - teaching
 
 
   # include_dir : '{{ site.pages }}_include'
