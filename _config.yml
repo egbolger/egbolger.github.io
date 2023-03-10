@@ -44,11 +44,11 @@ remote_theme: poole/hyde
 plugins:
   - jekyll-feed
 
-include: 
-   - _teaching
+# include: 
+#    - _teaching
 
-collections:
-  - teaching
+# collections:
+#   - teaching
 
 
   # include_dir : '{{ site.pages }}_include'
