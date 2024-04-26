@@ -8,8 +8,8 @@ title:
 <div>
   <div>
     <img id="regular" src="figs/bolger.JPG" style="float: left; padding: 15px;" width="300" height="400" vspace="20" />
-    <button id="myCatButton">Click for Laser Cats!</button>
   </div>
+  <button id="myCatButton">Click for Laser Cats!</button>
   <script>
     const myImg = document.getElementById("regular");
     const myButton = document.getElementById("myCatButton");
@@ -18,7 +18,7 @@ title:
 
     myButton.addEventListener("click", function() {
       if (isFirstImage) {
-        myImg.src = "figs/EmilyBolger_LaserCat.jpg";
+        myImg.src = "figs/EmilyBolger_LaserCatwBorder.jpg";
       } else {
         myImg.src = "figs/bolger.JPG";
       }
