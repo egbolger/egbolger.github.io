@@ -3,6 +3,6 @@ layout: page
 title: CV
 order: 4
 ---
-<a href="files/Resume_Bolgerv2023August.pdf" target = "_blank"> View </a> my current CV. 
+<a href="files/CV_Bolger_Purple_May2024.pdf" target = "_blank"> View </a> my current CV. 
 
-Last Updated: August 2023
+Last Updated: May 2024

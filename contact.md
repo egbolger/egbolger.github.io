@@ -5,7 +5,7 @@ order: 5
 ---
 
 Emily Bolger  
-Graduate Student  
+PhD Candidate  
 Computational Mathematics, Science, and Engineering Department  
 Michigan State University   
 

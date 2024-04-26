@@ -6,7 +6,7 @@ order: 3
 ### Current Positions
 
 
-* <a href="https://midmichigan.wixsite.com/gwis" target = "_blank"> Graduate Women in Science, Mid-Michigan Chapter, </a> Co-President and Co-chair of Girls Math and Science Day Committee and the Undergraduate Mentoring Program Committee 
+* <a href="https://midmichigan.wixsite.com/gwis" target = "_blank"> Graduate Women in Science, Mid-Michigan Chapter, </a> Co-President and Co-chair of Girls Math and Science Day Committee 
   * The organization is comprised of scientists at various levels who encourage and support women to succeed in science through outreach, networking, and workshops. 
   * Host and organize monthly executive board meetings. Oversee and assist where needed with all operations of the Mid-Michigan organization. Communicate with GWIS National. 
   * Girl's Math and Science Day invites middle school students to spend the day completing STEM-themed activities with graduate students. 
