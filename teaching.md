@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 order: 2
 ---
-In addition to my research in Computing Education, I was a Teaching Assistant for 5 semesters. 
+In addition to my research in Computing Education, I was a Teaching Assistant for 5 semesters.
 
 My past teaching experiences include:
 
