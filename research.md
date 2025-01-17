@@ -3,11 +3,11 @@ layout: page
 title: Research
 order: 1
 ---
- As a trained applied mathematician, my strengths lie in projects encompassing statistical methods, data analysis, and computational modeling.
 
-I work with the <a href="https://msu-cerl.github.io/" target = "_blank"> Computational Education Research Lab (CERL), </a> under the advisement of <a href="https://dannycaballero.info/" target = "_blank"> Dr. Marcos (Danny) Caballero.</a> The group focuses on understanding how students learn computational tools so that we can more effectively integrate these tools into our classrooms and help our students learn better. 
+I work with some wonderful humans the <a href="https://msu-cerl.github.io/" target = "_blank"> Computational Education Research Lab (CERL), </a> under the advisement of <a href="https://dannycaballero.info/" target = "_blank"> Dr. Marcos (Danny) Caballero.</a> The group focuses on understanding how students learn computational tools so that we can more effectively integrate these tools into our classrooms and help our students learn better. 
 
 ### Current projects:
+<img id="regular" src="figs/Bolger_Pittsburgh.jpg" style="float: left; padding: 15px;" width="300" height="400" vspace="20" />
 * Using Natural Language Processing to Characterize STEM Education Literature
   * In collaboration with three other universities, we are conducting a mixed-methods analysis on literature published in the past three decades on change strategies for improving undergraduate STEM instruction. Specifically, my work uses topic analysis and Natural Language Processing to computational characterize the development of change strategies in the field. 
 * Using Social Network Analysis to Understand Online Faculty Learning Communities
