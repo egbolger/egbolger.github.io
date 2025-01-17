@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AboutMe
-order: 1
+title: About Me
+order: 5
 ---
 
 ### Current projects:

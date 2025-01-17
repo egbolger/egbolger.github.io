@@ -7,11 +7,26 @@ order: 1
 I work with some wonderful humans the <a href="https://msu-cerl.github.io/" target = "_blank"> Computational Education Research Lab (CERL), </a> under the advisement of <a href="https://dannycaballero.info/" target = "_blank"> Dr. Marcos (Danny) Caballero.</a> The group focuses on understanding how students learn computational tools so that we can more effectively integrate these tools into our classrooms and help our students learn better. 
 
 ### Current projects:
-<img id="regular" src="figs/Bolger_Pittsburgh.jpg" style="float: left; padding: 15px;" width="300" height="400" vspace="20" />
-* Using Natural Language Processing to Characterize STEM Education Literature
-  * In collaboration with three other universities, we are conducting a mixed-methods analysis on literature published in the past three decades on change strategies for improving undergraduate STEM instruction. Specifically, my work uses topic analysis and Natural Language Processing to computational characterize the development of change strategies in the field. 
-* Using Social Network Analysis to Understand Online Faculty Learning Communities
-  * Currently, I am using Social Network Analysis techniques to model data from a messaging platform consisting of STEM instructors who are looking to incorporate computation into their courses. The goal is to learn which instructors are most active, what sort of relationships the instructors foster, and how these relationships develop over time. Through analyzing these relationships, we can learn what struggles instructors face when looking to incorporate computation into their classrooms and better help them succeed.
+
+<div>
+  <div>
+    <img id="regular" src="figs/abstracts_hbscan_10_0.1_15_5_wlab_wmostrepremoved.png" style="float: left; padding: 15px;" width="300" height="400" vspace="20" />
+  </div>
+  <div align="left">
+  * Using Natural Language Processing to Characterize STEM Education Literature
+    * In collaboration with three other universities, we are conducting a mixed-methods analysis on literature published in the past decade on change strategies for improving undergraduate STEM instruction. Specifically, my work explores the impact and ability of how topic analysis, using statistical methods and Natural Language Processing, can be integrated into systematic literature reviews. 
+    * This project extends work conducted by <a href= "https://onlinelibrary-wiley-com.proxy2.cl.msu.edu/doi/full/10.1002/tea.20439?casa_token=HcGshgY6EVMAAAAA%3AIMSWsAcNjgkAMkLgRNTbzPAGWiqAHjsrQ-pLjIyxmncwMY1KPa_BXxPjWhTzTU5TNzEp-rYqC3WZ5zk">Henderson, Beach, and Finkelstein. </a>
+  </div>
+   <div>
+    <img id="regular" src="figs/CompareDegreeTies.png" style="float: left; padding: 15px;" width="300" height="400" vspace="20" />
+  </div>
+  <div align="left">
+  * Using Social Network Analysis to Understand Online Faculty Learning Communities
+    *  I am using Social Network Analysis techniques to model data from a messaging platform consisting of STEM instructors who are looking to incorporate computation into their courses. The goal is to learn which instructors are most active, what sort of relationships the instructors foster, and how these relationships develop over time. Through analyzing these relationships, we can learn what struggles instructors face when looking to incorporate computation into their classrooms and better help them succeed.
+  </div>
+</div>
+
+
   
 
 

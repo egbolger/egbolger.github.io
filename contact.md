@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-order: 5
+order: 6
 ---
 
 Emily Bolger  
