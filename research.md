@@ -30,9 +30,9 @@ I work with some wonderful humans in the <a href="https://msu-cerl.github.io/" t
   </div>
 </div>
 
-
-  
-
+<br>
+  <hr style="border-bottom: dotted 1px #000" />
+<br>
 
 ### A few past projects:
 
