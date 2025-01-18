@@ -15,7 +15,7 @@ order: 4
   * Girl's Math and Science Day invites middle school students to spend the day completing STEM-themed activities with graduate students. 
 * <a href="https://prescientist.org/" target = "_blank"> Letters to Pre-Scientist, </a> STEM Professional Pen Pal
   * Exchange bi-monthly letters with a middle school student to help them learn more about careers in STEM-related fields.
- 
+
 
 ### Previous Positions 
 * <a href="https://cmse.msu.edu/dept-resources/dei/" target = "_blank"> MSU CMSE Graduate Student Organization (GSO) Diversity, Equity, and Inclusion (DEI) Committee, </a>  Minutes Moderator, Graduate Student Mentor, Member
