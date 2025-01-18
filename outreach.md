@@ -4,13 +4,10 @@ title: Outreach
 order: 4
 ---
 ### Current Positions
-<div><img id="regular" src="figs/GMSD.jpg" style="float: left; padding: 15px;" width="400" height="auto" vspace="20" /></div>
+<div align='center'>
+   <img id="regular" src="figs/GMSD.jpg" width="500" height="auto" vspace="100"><br/>
+</div>
 
-<style>
-  .bottom-three {
-     margin-bottom: 3cm;
-  }
-</style>
 
 
 <div>
