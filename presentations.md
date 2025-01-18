@@ -6,7 +6,7 @@ order: 2
 
 #### Peer-Reviewed Articles
 * Bolger, Emily, Marius Nwobi, and Marcos D. Caballero. “Characterizing Faculty Online Learning Community Interactions Using Social Network Analysis”. 2024. arXiv, arxiv.org/abs/2407.00193.
-* Azodi, Christina B., Emily G. Bolger, Andrew McCarren, Mark Roantree, Gustavo de los Campos, and Shin-Han Shiu. “Benchmarking Parametric and Machine Learning Models for Genomic Prediction of Complex Traits.” G3: Genes|Genomes|Gene 2019. https://doi.org/doi:10.1534/g3.119.400498.
+* Azodi, Christina B., Emily G. Bolger, Andrew McCarren, Mark Roantree, Gustavo de los Campos, and Shin-Han Shiu. “Benchmarking Parametric and Machine Learning Models for Genomic Prediction of Complex Traits.” G3: Genes.Genomes.Gene 2019. https://doi.org/doi:10.1534/g3.119.400498.
 
 <hr style="border-bottom: dotted 1px #000" />
 
