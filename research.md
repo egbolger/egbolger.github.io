@@ -10,7 +10,7 @@ I work with some wonderful humans in the <a href="https://msu-cerl.github.io/" t
 
 <div>
   <div>
-    <img id="regular" src="figs/abstracts_hbscan_10_0.1_15_5_wlab_wmostrepremoved.png" style="float: left; padding: 15px;" width="300" height="400" vspace="20" />
+    <img id="regular" src="figs/abstracts_hbscan_10_0.1_15_5_wlab_wmostrepremoved.png" style="float: left; padding: 15px;" width="400" height="auto" vspace="20" />
   </div>
   <div align="left">
   * Using Natural Language Processing to Characterize STEM Education Literature
@@ -18,7 +18,7 @@ I work with some wonderful humans in the <a href="https://msu-cerl.github.io/" t
     * This project extends work conducted by <a href= "https://onlinelibrary-wiley-com.proxy2.cl.msu.edu/doi/full/10.1002/tea.20439?casa_token=HcGshgY6EVMAAAAA%3AIMSWsAcNjgkAMkLgRNTbzPAGWiqAHjsrQ-pLjIyxmncwMY1KPa_BXxPjWhTzTU5TNzEp-rYqC3WZ5zk">Henderson, Beach, and Finkelstein. </a>
   </div>
    <div>
-    <img id="regular" src="figs/CompareDegreeTies.png" style="float: left; padding: 15px;" width="300" height="400" vspace="20" />
+    <img id="regular" src="figs/CompareDegreeTies.png" style="float: left; padding: 15px;" width="400" height="auto" vspace="20" />
   </div>
   <div align="left">
   * Using Social Network Analysis to Understand Online Faculty Learning Communities
