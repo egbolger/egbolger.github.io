@@ -5,13 +5,13 @@ order: 4
 ---
 ### Current Positions
 <div><img id="regular" src="figs/GMSD.jpg" style="float: left; padding: 15px;" width="400" height="auto" vspace="20" /></div>
-
+<br>
 * <a href="https://midmichigan.wixsite.com/gwis" target = "_blank"> Graduate Women in Science, Mid-Michigan Chapter, </a> President
   * _Past Positions:  Co-Chair, Girls Math and Science Day Committee (June 2022- June 2024); Chair, Undergraduate Mentoring Program (June 2022 - June 2023)_
   * The organization is comprised of scientists at various levels who encourage and support women to succeed in science through outreach, networking, and workshops. 
   * Host and organize monthly executive board meetings. Oversee and assist where needed with all operations of the Mid-Michigan organization. Communicate with GWIS National. 
   * Girl's Math and Science Day invites middle school students to spend the day completing STEM-themed activities with graduate students. 
-* <a href="https://prescientist.org/" target = "_blank"> Letters to Pre-Scientis, </a> STEM Professional Pen Pal
+* <a href="https://prescientist.org/" target = "_blank"> Letters to Pre-Scientist, </a> STEM Professional Pen Pal
   * Exchange bi-monthly letters with a middle school student to help them learn more about careers in STEM-related fields.
   
 

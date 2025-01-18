@@ -15,7 +15,7 @@ In addition to my research in Computing Education, I was a Teaching Assistant fo
 In collaboration with my collagues, <a href="https://sites.google.com/msu.edu/rachel-e-roca/home">Rachel Roca</a> and <a href="https://directory.natsci.msu.edu/Directory/Profiles/Person/101034">Dr. Rachel Frisbie</a>, have been integrating coursework on data and algorthmic bias in our introduction to data science and computing course, <a href="https://cmse.msu.edu/Academics/undergrad_program/undergrad_courses/cmse201.aspx">CMSE 201</a>. The course serves over 450 students per semester from a variety of disciplines including biology, physics, mathematics, and social sciences. 
 
 <div>
-    <img id="regular" src="figs/SoTBF.png" style="float: left; padding: 15px;" width="200" height="auto" vspace="20" />
+    <img id="regular" src="figs/SoTBF.png" style="float: left; padding: 15px;" width="400" height="auto" vspace="20" />
   </div>
   <div align="left">
   Most notably, Rachel Roca and I developed an assignment, grounded in literature on data literacy, to help students explore the tensions between impact and intent. Through the simulation <a href="https://www.survivalofthebestfit.com/">“Survival of the Best Fit” </a> developed by Gabor Csapo, Jihyun Kim, Miha Klasinc, and Alia ElKattan, they take a deep dive into the professionally written simulation code. In tandem, they engage with a news article where they must grapple with the implications of being excluded from a job due to gender identity. The assignment celebrates students’ abilities to read and interact with professionally written code while supporting their self-efficacy.
