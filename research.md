@@ -26,13 +26,7 @@ I work with some wonderful humans in the <a href="https://msu-cerl.github.io/" t
   </div>
 </div>
 
-<br>
-<br>
-<br>
   <hr style="border-bottom: dotted 1px #000" />
-<br>
-<br>
-<br>
 
 ### A few past projects:
 
