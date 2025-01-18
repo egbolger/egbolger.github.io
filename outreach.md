@@ -8,7 +8,7 @@ order: 4
    <img id="regular" src="figs/GMSD.jpg" width="500" height="auto" vspace="100"><br/>
 </div>
 
-<div>
+
 * <a href="https://midmichigan.wixsite.com/gwis" target = "_blank"> Graduate Women in Science, Mid-Michigan Chapter, </a> President
   * _Past Positions:  Co-Chair, Girls Math and Science Day Committee (June 2022- June 2024); Chair, Undergraduate Mentoring Program (June 2022 - June 2023)_
   * The organization is comprised of scientists at various levels who encourage and support women to succeed in science through outreach, networking, and workshops. 
@@ -16,7 +16,7 @@ order: 4
   * Girl's Math and Science Day invites middle school students to spend the day completing STEM-themed activities with graduate students. 
 * <a href="https://prescientist.org/" target = "_blank"> Letters to Pre-Scientist, </a> STEM Professional Pen Pal
   * Exchange bi-monthly letters with a middle school student to help them learn more about careers in STEM-related fields.
- </div> 
+ 
 
 ### Previous Positions 
 * <a href="https://cmse.msu.edu/dept-resources/dei/" target = "_blank"> MSU CMSE Graduate Student Organization (GSO) Diversity, Equity, and Inclusion (DEI) Committee, </a>  Minutes Moderator, Graduate Student Mentor, Member
