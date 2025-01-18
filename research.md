@@ -22,7 +22,7 @@ I work with some wonderful humans in the <a href="https://msu-cerl.github.io/" t
 <div>
   <div>
   I am using Social Network Analysis techniques to model data from a messaging platform consisting of STEM instructors who are looking to incorporate computation into their courses. The goal is to learn which instructors are most active, what sort of relationships the instructors foster, and how these relationships develop over time. Through analyzing these relationships, we can learn what struggles instructors face when looking to incorporate computation into their classrooms and better help them succeed.
-  <img id="regular" src="figs/CompareDegreeTies.png" style="float: right; padding: 15px;" width="350" height="auto"/>
+  <!-- <img id="regular" src="figs/CompareDegreeTies.png" style="float: right; padding: 15px;" width="350" height="auto"/> -->
   </div>
 </div>
 
