@@ -3,11 +3,12 @@ layout: page
 title: Outreach
 order: 4
 ---
-### Current Positions
+
 <div align ="center">
   <img id="regular" src="figs/GMSD.jpg" width="auto" height="300" vspace="100" align ="center">
 </div>
 
+### Current Positions
 * <a href="https://midmichigan.wixsite.com/gwis" target = "_blank"> Graduate Women in Science, Mid-Michigan Chapter, </a> President
   * _Past Positions:  Co-Chair, Girls Math and Science Day Committee (June 2022- June 2024); Chair, Undergraduate Mentoring Program (June 2022 - June 2023)_
   * The organization is comprised of scientists at various levels who encourage and support women to succeed in science through outreach, networking, and workshops. 
