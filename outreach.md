@@ -4,9 +4,9 @@ title: Outreach
 order: 4
 ---
 ### Current Positions
-
+<div>
 <img id="regular" src="figs/GMSD.jpg" width="500" height="auto" vspace="100"><br/>
-
+</div>
 <br>
 <br>
 <br>
