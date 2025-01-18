@@ -4,7 +4,7 @@ title: Research
 order: 1
 ---
 
-I work with some wonderful humans the <a href="https://msu-cerl.github.io/" target = "_blank"> Computational Education Research Lab (CERL), </a> under the advisement of <a href="https://dannycaballero.info/" target = "_blank"> Dr. Marcos (Danny) Caballero.</a> The group focuses on understanding how students learn computational tools so that we can more effectively integrate these tools into our classrooms and help our students learn better. 
+I work with some wonderful humans in the <a href="https://msu-cerl.github.io/" target = "_blank"> Computational Education Research Lab (CERL), </a> under the advisement of <a href="https://dannycaballero.info/" target = "_blank"> Dr. Marcos (Danny) Caballero.</a> The group focuses on understanding how students learn computational tools so that we can more effectively integrate these tools into our classrooms and help our students learn better. 
 
 ### Current projects:
 

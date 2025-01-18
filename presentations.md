@@ -6,7 +6,9 @@ order: 2
 
 #### Peer-Reviewed Articles
 <div>
+
 * Bolger, Emily, Marius Nwobi, and Marcos D. Caballero. “Characterizing Faculty Online Learning Community Interactions Using Social Network Analysis”. 2024. arXiv, arxiv.org/abs/2407.00193.
+  
 * Azodi, Christina B., Emily G. Bolger, Andrew McCarren, Mark Roantree, Gustavo de los Campos, and Shin-Han Shiu. “Benchmarking Parametric and Machine Learning Models for Genomic Prediction of Complex Traits.” G3: Genes|Genomes|Gene 2019. https://doi.org/doi:10.1534/g3.119.400498.
 </div>
 
@@ -14,6 +16,7 @@ order: 2
 
 #### Peer-Reviewed Conference Proceedings
 <div>
+
 * Bolger, Emily and Marcos Caballero. [Poster Presentation]. “Exploring the Impact of Unsupervised Clustering Methods in Systematic Literature Reviews”. Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 2. Association for Computing Machinery, Wed 26 February - Sat 1 March 2025, 2025, https://doi.org/10.1145/3641555.3705184.
 * Bolger, Emily, Yang Wang, Rachel Renbarger, M. Danny Caballero, Marius Nwobi, Cassandra Lem, Noah Finkelstein, Scott Simkins, Taylor Boyd, Charles Henderson, and Andrea Beach. [Paper Presentation]. “Integrating machine learning into systematic reviews: Strengthening evidence synthesis”. Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 2. American Educational Research Association Annual Meeting, April 23-27, 2025, 2025.
 * Bolger, Emily and Marcos Caballero. [Lightning Talk Presentation]. “Using Natural Language Processing to Explore Instructional Change Strategies in Undergraduate Science Education Literature”. Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2. Association for Computing Machinery, Wed 20 - Sat 23 March 2024, 2024, https://doi.org/10.1145/3626253.3635341.
