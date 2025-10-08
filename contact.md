@@ -25,5 +25,5 @@ Additional Links:
 
 <a href="https://scholar.google.com/citations?user=Dm4mbusAAAAJ&hl=en&oi=ao" target = "_blank"> Google Scholar </a>
 
-<a href="https://twitter.com/ebolger06" target = "_blank"> Twitter</a>
+<a href="https://bsky.app/profile/ebolger06.bsky.social" target = "_blank"> BlueSky</a>
 
