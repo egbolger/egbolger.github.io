@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-order: 5
+order: 4
 ---
 
 Emily Bolger, PhD  <br>
