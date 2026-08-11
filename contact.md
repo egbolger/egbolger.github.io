@@ -4,18 +4,12 @@ title: Contact
 order: 5
 ---
 
-Emily Bolger  
-PhD Candidate  
-Computational Mathematics, Science, and Engineering Department  
-Michigan State University   
+Emily Bolger, PhD  
+Data Science Preceptor 
+Data Science Institute 
+University of Chicago 
 
-Office:  
-428 South Shaw Lane  
-Engineering Building
-Michigan State University  
-East Lansing, MI 48824  
-
-Email: bolgerem@msu.edu  
+Email: bolgerem@uchicago.edu  
 
 
 Additional Links:  
