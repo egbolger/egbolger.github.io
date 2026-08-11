@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Emily Bolger
-email: bolgerem@msu.edu
+title: Emily Bolger, PhD
+email: bolgerem@uchicago.edu
 description: #>- # this means to ignore newlines until "baseurl:"
-  PhD Candidate,
-  Computational Mathematics, Science, and Engineering Department,
-  Michigan State University
+  Data Science Preceptor,
+  Data Science Institute
+  University of Chicago
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://egbolger.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: egbolger

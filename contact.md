@@ -4,9 +4,9 @@ title: Contact
 order: 5
 ---
 
-Emily Bolger, PhD  
-Data Science Preceptor 
-Data Science Institute 
+Emily Bolger, PhD  <br>
+Data Science Preceptor <br>
+Data Science Institute <br>
 University of Chicago 
 
 Email: bolgerem@uchicago.edu  
