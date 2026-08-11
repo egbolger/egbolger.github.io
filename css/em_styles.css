@@ -36,3 +36,7 @@
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .em-dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+.sidebar-about h1 {
+  font-size: 2.5rem;
+}
