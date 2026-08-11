@@ -2,6 +2,7 @@
 layout: page
 title: Presentations
 order: 2
+hide_nav: true
 ---
 
 #### Peer-Reviewed Articles

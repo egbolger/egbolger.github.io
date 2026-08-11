@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-order: 2
+order: 3
 ---
 
 In addition to my research in Computing Education, I was a Teaching Assistant for 5 semesters.
